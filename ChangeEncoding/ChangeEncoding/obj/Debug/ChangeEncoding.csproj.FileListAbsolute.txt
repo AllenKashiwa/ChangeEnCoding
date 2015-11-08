@@ -1,0 +1,9 @@
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\bin\Debug\ChangeEncoding.exe.config
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\bin\Debug\ChangeEncoding.exe
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\bin\Debug\ChangeEncoding.pdb
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.csprojResolveAssemblyReference.cache
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.Properties.Resources.resources
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.csproj.GenerateResource.Cache
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.exe
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.pdb
+D:\WorkSpace\WinForm\ChangeEncoding\ChangeEncoding\obj\Debug\ChangeEncoding.MainForm.resources
